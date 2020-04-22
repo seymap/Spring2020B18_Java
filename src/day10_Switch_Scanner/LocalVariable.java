@@ -1,0 +1,6 @@
+package day10_Switch_Scanner;
+
+public class LocalVariable {
+
+
+}
